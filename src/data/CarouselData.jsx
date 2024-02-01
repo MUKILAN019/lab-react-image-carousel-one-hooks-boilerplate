@@ -15,3 +15,4 @@ export const images = [
     img: eyes,
   },
 ];
+export default images;

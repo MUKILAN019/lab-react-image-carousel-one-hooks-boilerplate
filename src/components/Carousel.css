@@ -1,1 +1,40 @@
-/* write down the css for Carousel in this file */
+.flex{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    width: 50%;
+    background-color: #090909;
+    opacity: 0.89;
+}
+img{
+    width: 100%;
+    
+}
+.arrow{
+    margin-top: 30%;
+    color: #eeeeee;
+}
+.flex2{
+    display:grid;
+   
+    width: 60%;
+   
+}
+.h21{
+    background-color: #eeeeee;
+    width: 15%;
+    position: absolute;
+    bottom: 20%;
+    right: 42%;
+    border: 6px;
+    opacity: 0.8;
+}
+.h22{
+   background-color:  #eeeeee;
+   height: 30px;
+   width: 10%;
+   position: absolute;
+   right: 45%;
+   border: 6px;
+   opacity: 0.8;
+}
